@@ -6,3 +6,5 @@ Example of Python script to work with network adapters on Windows. These functio
 2. Return the index and name of all enabled adapters
 3. Disable all enabled adapters and keep a list of their indexes
 4. Enable all adapters with the given indexes
+
+Run command to clone repository: ```git@github.com:jeanljh/python-network-adapters.git```
